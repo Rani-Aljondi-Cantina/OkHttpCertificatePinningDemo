@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CertificatePinningTest</string>
+    <string name="keyset_that_validates_certificate">Keyset that validates certificate</string>
+</resources>
