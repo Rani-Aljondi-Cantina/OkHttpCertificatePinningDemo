@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CertificatePinningTest.iml" filepath="$PROJECT_DIR$/CertificatePinningTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OkHttpCertificatePinningDemo.iml" filepath="$PROJECT_DIR$/OkHttpCertificatePinningDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
