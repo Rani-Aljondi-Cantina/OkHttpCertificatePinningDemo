@@ -32,6 +32,9 @@ public class MainActivity extends AppCompatActivity {
      * how pinning imposes requirements on certificate to whatever client wants.
      *
      *
+     * Certificate pinning handled via fallback method: certificate only needs to contain any one of the keys in the truststore to be accepted.
+     *
+     *
      * To see different scenarios: change certificatePinner in okHttpClient initialization to one of the ceritificate pinners below
      *
      * if a valid intermediate key is used: will open webview with content on publicobject.com
